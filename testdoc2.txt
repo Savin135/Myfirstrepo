@@ -4,3 +4,5 @@ test master change1
 
 test commit to btanch 1
 
+test detatched head1
+
